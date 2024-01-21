@@ -1,0 +1,14 @@
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\lulzGame\bin\Debug\net8.0\lulzGame.exe
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\lulzGame\bin\Debug\net8.0\lulzGame.deps.json
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\lulzGame\bin\Debug\net8.0\lulzGame.runtimeconfig.json
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\lulzGame\bin\Debug\net8.0\lulzGame.dll
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\lulzGame\bin\Debug\net8.0\lulzGame.pdb
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\lulzGame\obj\Debug\net8.0\lulzGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\lulzGame\obj\Debug\net8.0\lulzGame.AssemblyInfoInputs.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\lulzGame\obj\Debug\net8.0\lulzGame.AssemblyInfo.cs
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\lulzGame\obj\Debug\net8.0\lulzGame.csproj.CoreCompileInputs.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\lulzGame\obj\Debug\net8.0\lulzGame.dll
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\lulzGame\obj\Debug\net8.0\refint\lulzGame.dll
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\lulzGame\obj\Debug\net8.0\lulzGame.pdb
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\lulzGame\obj\Debug\net8.0\lulzGame.genruntimeconfig.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\lulzGame\obj\Debug\net8.0\ref\lulzGame.dll
